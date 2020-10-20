@@ -18,5 +18,8 @@ export let ptPt = {
     PLUS_RANDOM: 'Aleatório',
     PLUS_MULTI_SCRAMBLE_HINT: 'Clique em um dos scrambles para visualizar a imagem!',
     PLUS_VERSION: 'Versão',
-    PLUS_WHATS_NEW: 'Veja o que há de novo na'
+    PLUS_WHATS_NEW: 'Veja o que há de novo na',
+    PLUS_LOGO_FACE: 'Face da logomarca',
+    PLUS_LOGO_FACE_OPT: 'Baixo|Esquerda|Traseira|Topo|Direita|Frente',
+    PLUS_LOGO_IMAGE: 'Imagem de logomarca'
 }

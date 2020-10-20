@@ -18,5 +18,8 @@ export let enUs = {
     PLUS_RANDOM: 'Random',
     PLUS_MULTI_SCRAMBLE_HINT: 'Click one of the scrambles to see its image!',
     PLUS_VERSION: 'Version',
-    PLUS_WHATS_NEW: 'See what\'s new in'
+    PLUS_WHATS_NEW: 'See what\'s new in',
+    PLUS_LOGO_FACE: 'Logo face',
+    PLUS_LOGO_FACE_OPT: 'Down|Left|Back|Top|Right|Front',
+    PLUS_LOGO_IMAGE: 'Logo image'
 }
