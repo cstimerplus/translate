@@ -21,5 +21,7 @@ export let enUs = {
     PLUS_WHATS_NEW: 'See what\'s new in',
     PLUS_LOGO_FACE: 'Logo face',
     PLUS_LOGO_FACE_OPT: 'Down|Left|Back|Top|Right|Front',
-    PLUS_LOGO_IMAGE: 'Logo image'
+    PLUS_LOGO_IMAGE: 'Logo image',
+    PLUS_BLD_SILENCE_MODE: 'Reduce voices on BLD',
+    PLUS_INSPECTION_BTN: 'Inspection button on typing mode'
 }

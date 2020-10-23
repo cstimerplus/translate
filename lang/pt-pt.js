@@ -21,5 +21,7 @@ export let ptPt = {
     PLUS_WHATS_NEW: 'Veja o que há de novo na',
     PLUS_LOGO_FACE: 'Face da logomarca',
     PLUS_LOGO_FACE_OPT: 'Baixo|Esquerda|Traseira|Topo|Direita|Frente',
-    PLUS_LOGO_IMAGE: 'Imagem de logomarca'
+    PLUS_LOGO_IMAGE: 'Imagem de logomarca',
+    PLUS_BLD_SILENCE_MODE: 'Reduzir vozes no BLD',
+    PLUS_INSPECTION_BTN: 'Botão de inspeção no modo de digitação'
 }
