@@ -23,5 +23,8 @@ export let ptPt = {
     PLUS_LOGO_FACE_OPT: 'Baixo|Esquerda|Traseira|Topo|Direita|Frente',
     PLUS_LOGO_IMAGE: 'Imagem de logomarca',
     PLUS_BLD_SILENCE_MODE: 'Reduzir vozes no BLD',
-    PLUS_INSPECTION_BTN: 'Botão de inspeção no modo de digitação'
+    PLUS_INSPECTION_BTN: 'Botão de inspeção no modo de digitação',
+    PLUS_ENABLE_VOICES_INT: 'Habilitar vozes internacionais',
+    PLUS_ENABLE_VOICES_EN: 'Habilitar vozes em inglês',
+    PLUS_ENABLE_VOICES_PT: 'Habilitar vozes em português'
 }

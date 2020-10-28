@@ -23,5 +23,8 @@ export let enUs = {
     PLUS_LOGO_FACE_OPT: 'Down|Left|Back|Top|Right|Front',
     PLUS_LOGO_IMAGE: 'Logo image',
     PLUS_BLD_SILENCE_MODE: 'Reduce voices on BLD',
-    PLUS_INSPECTION_BTN: 'Inspection button on typing mode'
+    PLUS_INSPECTION_BTN: 'Inspection button on typing mode',
+    PLUS_ENABLE_VOICES_INT: 'Enable international voices',
+    PLUS_ENABLE_VOICES_EN: 'Enable voices in english',
+    PLUS_ENABLE_VOICES_PT: 'Enable voices in portuguese'
 }
