@@ -3,7 +3,7 @@ export let frFr = {
     PLUS_WELCOME_LINE_1: 'Bienvenue dans une toute nouvelle expérience dans csTimer, merci d\'avoir installé notre extension!',
     PLUS_WELCOME_LINE_2: 'Nous savons que vous voulez simplement résoudre, mais ne vous inquiétez pas: vous ne verrez ce message qu\'une fois.',
     PLUS_WELCOME_LINE_3: 'Vu que vous êtes nouveau ici, pourquoi ne pas commencer à utiliser les toutes nouvelles fonctionnalités que nous avons préparées?',
-    PLUS_WELCOME_REMINDER: 'Souvenez que vous pourrez toujours changer ces options plus tard!',
+    PLUS_WELCOME_REMINDER: 'Souvenez vous que vous pourrez toujours changer ces options plus tard!',
     PLUS_FEATURE: 'Fonctionnalité',
     PLUS_CONFIGURATION: 'Configuration',
     PLUS_USE_MODERN_UI: 'Utiliser la nouvelle interface moderne',
