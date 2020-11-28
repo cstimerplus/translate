@@ -26,5 +26,10 @@ export let ptPt = {
     PLUS_INSPECTION_BTN: 'Botão de inspeção no modo de digitação',
     PLUS_ENABLE_VOICES_INT: 'Habilitar vozes internacionais',
     PLUS_ENABLE_VOICES_EN: 'Habilitar vozes em inglês',
-    PLUS_ENABLE_VOICES_PT: 'Habilitar vozes em português'
+    PLUS_ENABLE_VOICES_PT: 'Habilitar vozes em português',
+    PLUS_REDEEM_CODE: 'Resgatar Código',
+    PLUS_USED_CODE: 'Você já resgatou este código.',
+    PLUS_INCORRECT_CODE: 'Código incorreto.',
+    PLUS_EXPIRED_CODE: 'Este código não está mais disponível.',
+    PLUS_SUCCESSFUL_CODE: 'Seu código foi resgatado com sucesso, aproveite!'
 }

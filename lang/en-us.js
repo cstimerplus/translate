@@ -26,5 +26,10 @@ export let enUs = {
     PLUS_INSPECTION_BTN: 'Inspection button on typing mode',
     PLUS_ENABLE_VOICES_INT: 'Enable international voices',
     PLUS_ENABLE_VOICES_EN: 'Enable voices in english',
-    PLUS_ENABLE_VOICES_PT: 'Enable voices in portuguese'
+    PLUS_ENABLE_VOICES_PT: 'Enable voices in portuguese',
+    PLUS_REDEEM_CODE: 'Redeem Code',
+    PLUS_USED_CODE: 'You\'ve already redeemed this code.',
+    PLUS_INCORRECT_CODE: 'Incorrect code.',
+    PLUS_EXPIRED_CODE: 'This code is no longer available.',
+    PLUS_SUCCESSFUL_CODE: 'Your code has been redeemed successfully, enjoy!'
 }
