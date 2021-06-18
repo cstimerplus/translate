@@ -6,7 +6,7 @@ export let viVn = {
     PLUS_WELCOME_REMINDER: 'Bạn luôn có thể thay đổi lại cài đặt!',
     PLUS_FEATURE: 'Tính năng',
     PLUS_CONFIGURATION: 'Cấu hình',
-    PLUS_USE_MODERN_UI: 'Sử dụng UI hiện đại',
+    PLUS_USE_MODERN_UI: 'Sử dụng giao diện hiện đại',
     PLUS_USE_WCA_INSPECTION: 'Sử dụng thời gian chuẩn bị WCA',
     PLUS_USE_NEW_VOICES: 'Sử dụng giọng mới cho thời gian chuẩn bị WCA',
     PLUS_YES: 'Có',
