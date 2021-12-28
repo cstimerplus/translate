@@ -18,7 +18,7 @@ export let frFr = {
     PLUS_RANDOM: 'Aléatoire',
     PLUS_MULTI_SCRAMBLE_HINT: 'Cliquez sur un des mélanges pour voir son image!',
     PLUS_VERSION: 'Version',
-    PLUS_WHATS_NEW: 'Voir ce qui est nouveau en la',
+    PLUS_WHATS_NEW: 'Voir ce qui est nouveau dans la',
     PLUS_LOGO_FACE: 'Emplacement du logo',
     PLUS_LOGO_FACE_OPT: 'Dessous|Gauche|Derrière|Dessus|Droite|Devant',
     PLUS_LOGO_IMAGE: 'Logo',
